@@ -487,8 +487,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review
 - If some lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -680,7 +680,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
+    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
     - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
     - C/C++:
@@ -1342,7 +1342,7 @@ Mock Interviews:
 ## Your Resume
 
 - See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
-- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Complaint. 
+- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Complaint.
 - [How to Create or Check if your Resume is ATS Complaint](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for-Free)
 
 ## Be thinking of for when the interview comes
@@ -1797,7 +1797,7 @@ You're never really done.
     above because it's just too much. It's easy to overdo it on a subject.
     You want to get hired in this century, right?
 
-- **SOLID**   
+- **SOLID**
     - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://www.youtube.com/watch?v=TMuno5RZNeE)
     - [ ] S - [Single Responsibility Principle](http://www.oodesign.com/single-responsibility-principle.html) | [Single responsibility to each Object](http://www.javacodegeeks.com/2011/11/solid-single-responsibility-principle.html)
         - [more flavor](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
